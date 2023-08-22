@@ -1,4 +1,4 @@
-# Challenge 1 Webpage
+# Horiseon Marketing
 
 ## Description
 
@@ -22,3 +22,4 @@ N/A
 
 MIT License
 
+<img width="1440" alt="Screenshot 2023-08-21 at 10 56 41 PM" src="https://github.com/eissamonet/Horiseon/assets/133728858/dc6f71d5-93f8-474c-a217-fe257d167725">
